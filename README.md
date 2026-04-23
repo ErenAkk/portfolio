@@ -182,7 +182,7 @@ Scope: Technical documentation for technology infrastructure
 
 ## 🔗 Quick Links
 
-- 📂 [Browse Projects](https://github.com/ErenAkk/ba-portfolio-artifact)
+- 📂 [Browse Projects](https://github.com/ErenAkk/portfolio)
 - 👤 [GitHub Profile](https://github.com/ErenAkk)
 
 ---
