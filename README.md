@@ -182,8 +182,8 @@ Scope: Technical documentation for technology infrastructure
 
 ## 🔗 Quick Links
 
-- 📂 [Browse Projects](https://github.com/Bahad1r-exe/ba-portfolio-artifacts)
-- 👤 [GitHub Profile](https://github.com/Bahad1r-exe)
+- 📂 [Browse Projects](https://github.com/ErenAkk/ba-portfolio-artifact)
+- 👤 [GitHub Profile](https://github.com/ErenAkk)
 
 ---
 
